@@ -1,0 +1,60 @@
+Reflections on using diff ---
+Using diff seemed way faster.
+The output in terminal is a bit difficult to get used to.
+But I imagine it won't be too hard once it's commonly used by me.
+
+Overall I think I'm seeing why having some control in place for 
+VC or just general programming will limit rabbit-hole hours.
+
+Focus on a problem, get it done, use git along the way.
+If there's an issue, go back.
+
+Writing the discriptions of commits will be great. I imagine 
+that's a bit of an art and something disired by employers.
+
+Reflections on why having old histories could help programming ---
+That's trickier to answer. I guess it would help when reviewing
+code. You could see how to improve your performance. 
+
+But I guess having old versions would help you not have to rewrite
+code. I guess that's the whole point of VC. You can revert.
+
+Reflections on manual saving vs auto saving ---
+Though I like auto-saving, it makes sense to only save/commit 
+when desired. You don't want partially complete code saved.
+
+Plus you can pick a good pace for your commits. And it makes
+you think about when to commit. Which should help you stay 
+focused on functional programming. 
+
+multi-file save ---
+Yeah that's helpful. Since most of the time you're working on 
+a project, it makes sense to have the entire project together.
+A gdocs type save would capture everything, but it would be
+annoying to have to revert all of the docs that changed if
+you needed to revert.
+
+git log and git diff ---
+Pretty powerful and that was a simple example. It's not very 
+comfortable but I imagine it will be. The coloring helps. I 
+want there to be a simpler way than copying and pasting huge 
+commit IDs though. That seems dumb.
+
+VC making me more confident to make changes ---
+Yeah being able to get back to a previous version, and not 
+just a previous version of one file but a whole project, 
+does feel good. Not only do you not have to worry about
+ruining things or forgetting things, you can see what was
+changed. And then address just those changes. Rather than 
+remember the process of your work. And of course, this is 
+going to help a ton if you are working with other people.
+
+What do I want to try using git for? ---
+I'm not sure how this is gonna work with coding up analysis
+for work. I should be able to use it for rugby though. We 
+already are using it so this should make things a lot easier.
+Just should wrap my head around a project based thing. And
+how to use it on images/plots produced. Also would be help-
+ful to use it on an entirely different project like with 
+Niall.
+
