@@ -19,3 +19,11 @@ git diff --staged shows us diffs between staging and last commit
 We can ensure we've staged/added what we want to commit before
 actually committing. And if we want out of it we can use...
 git reset --hard.
+
+Situations where branches help keep history organized ---
+Well I think exactly what they are used for is helpful, try-
+ing things out and only committing if they work. I'm not
+sure how merging handles history since you seem to delete
+branches after. So how does that work if there were changes
+on the master too? How does the git log look? Either way,
+branches separate work and keep the changes clean.
