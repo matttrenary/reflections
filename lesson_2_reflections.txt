@@ -12,3 +12,10 @@ Remember, it's not moving anything. A commit doesn't change
 anything. It just takes that snapshot. So the staging area
 is really just getting thing into your lens before
 taking an actual picture.
+
+How can we use staging to ensure 1 logical change per commit---
+Using git diff shows us diffs between cwd and staging.
+git diff --staged shows us diffs between staging and last commit
+We can ensure we've staged/added what we want to commit before
+actually committing. And if we want out of it we can use...
+git reset --hard.
