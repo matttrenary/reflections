@@ -1,0 +1,5 @@
+git log --graph --all --oneline
+Shows a graphical rep of the branches
+
+git checkout -b new_branch_name
+Creates a new branch and checks it out.
