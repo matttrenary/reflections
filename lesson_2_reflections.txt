@@ -27,3 +27,13 @@ sure how merging handles history since you seem to delete
 branches after. So how does that work if there were changes
 on the master too? How does the git log look? Either way,
 branches separate work and keep the changes clean.
+
+How do the diagrams help visualize the branch structure ---
+Well, for one, the word branch helps because it actually
+describes what is happening. Commit doesn't really do that 
+for example but it's ok. Master works. Merge will be pretty
+good I think. But branch helps because that's what we are
+seeing, branches off a tree. Or better, branches on a stream
+because there is an upstream/downstream effect to how some
+commits/branches can't see others. So there is a flow. A 
+workflow!
