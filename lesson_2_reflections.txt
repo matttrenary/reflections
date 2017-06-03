@@ -37,3 +37,17 @@ seeing, branches off a tree. Or better, branches on a stream
 because there is an upstream/downstream effect to how some
 commits/branches can't see others. So there is a flow. A 
 workflow!
+
+What is the result of merging? Why is it diagrammed the
+way it is? ---
+Well the result is that the changes are basically all
+run together. And ordered by timestamp. So you've basically
+allowed someone to get their work into the workflow when
+they weren't really in the workflow, they were just trying
+stuff out. Which is great. It's diagrammed that way
+because that's how rivers sorta flow back together. But 
+now they've basically become one river (all along) so
+we might as well just show them that way. Especially when
+we end up deleting the branch that is gone. Remember, a
+branch is really just a name. So the delete is just to 
+clean up labels and such.
