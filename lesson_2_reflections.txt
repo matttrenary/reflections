@@ -51,3 +51,15 @@ we might as well just show them that way. Especially when
 we end up deleting the branch that is gone. Remember, a
 branch is really just a name. So the delete is just to 
 clean up labels and such.
+
+Pros and cons of git automatic/manual merge ---
+Well automatic is great because we don't have to work
+as hard. Plus it's verifying that the changes we made
+aren't going to break other people's changes. The
+manual way is great because it prevents breakage. Though
+of course it's gonna take longer. And we may not exactly
+know what the other person was doing. But as long as
+their commits weren't huge and their code is somewhat
+commented then we should be OK. But in real life we'd
+probably just walk over there and talk it out. Or it
+all would have been better sorted out beforehand.
