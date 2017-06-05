@@ -1,0 +1,5 @@
+When would you want to use a remote repo rather than work local ---
+If you're on a computer that you don't have your local work
+on or perhaps isn't yours or doesn't have the software you
+need. Or perhaps you wanted to avoid pushing work up but that 
+seems like a minor hinderance.
