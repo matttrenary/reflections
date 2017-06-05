@@ -3,3 +3,17 @@ Shows a graphical rep of the branches
 
 git checkout -b new_branch_name
 Creates a new branch and checks it out.
+
+git branch -d branch_name
+Deletes a branch
+
+git remote add origin <url>
+Adds a remote named origin with the supplied url
+(You pretty much have to start a repo on github.com
+before you do things here with the url given back.)
+
+git push origin master
+Push our local master branch to the remote named origin
+
+git pull origin master
+Pull down remote origin changes onto local master branch
