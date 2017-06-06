@@ -10,3 +10,12 @@ Those changes might not be from you. You don't want to pull
 in someone else's code that you know nothing about auto. Plus
 you get to control what's in and what's not. Considering
 the ease of use, that's an advantage.
+
+Diff between fork/clone/branch and when to use each ---
+Branches are local offshoots from a project. You'll use them
+to test possible changes as you work locally. Clones are 
+copies of entire project. This includes files and commits
+so you're copying the entire history with it. Pretty great.
+You can clone onto your local but from either a remote or 
+local. A fork is just a github-github clone. Then once the
+repo is yours, you can clone it down local if you need to.
