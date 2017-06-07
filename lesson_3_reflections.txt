@@ -19,3 +19,9 @@ so you're copying the entire history with it. Pretty great.
 You can clone onto your local but from either a remote or 
 local. A fork is just a github-github clone. Then once the
 repo is yours, you can clone it down local if you need to.
+
+Benefit of having last-known state of remote on local ---
+Well it helps us just keep up to date with anyone else's
+work for one. Which can prevent conflicts when you end up
+pushing later. I dunno, this seems like such an obvious
+question.
