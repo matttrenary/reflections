@@ -17,3 +17,8 @@ Push our local master branch to the remote named origin
 
 git pull origin master
 Pull down remote origin changes onto local master branch
+
+git pull origin master is the same as...
+git fetch origin
+followed by
+git merge master origin/master
