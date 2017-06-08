@@ -25,3 +25,15 @@ Well it helps us just keep up to date with anyone else's
 work for one. Which can prevent conflicts when you end up
 pushing later. I dunno, this seems like such an obvious
 question.
+
+How would I collab w/o git/github? What's easier/harder?---
+I'd probably have a shared workspace for files but have 
+to communicate separate of those files. So the comm would
+be harder to track to the improvements/work. Say a GDoc 
+but then emails/chat separate. I guess you can chat in the 
+doc but things get messy and it's not easy to separate
+tasks. You may have a bunch of pull requests that are in
+a variety of stages. The learning curve would be easier
+and perhaps it'd make collab w/ less technical people
+easier but overall I imagine git/GitHub is gonna save
+time and reduce confusion.
