@@ -37,3 +37,13 @@ a variety of stages. The learning curve would be easier
 and perhaps it'd make collab w/ less technical people
 easier but overall I imagine git/GitHub is gonna save
 time and reduce confusion.
+
+When to work in branch/master? Benefits of each? ---
+Seems like working in a branch is almost necessary
+when collabing. Best way to get review of your work via 
+pull request and if there are other possible changes
+to your master, it'll be easier to incorporate those before
+you are done with your work. Perhaps if it is a solo
+local project, just plinking along on the master is fine.
+It's a bit simpler but at the same time it fails to
+accomodate separate devs going on at the same time.
